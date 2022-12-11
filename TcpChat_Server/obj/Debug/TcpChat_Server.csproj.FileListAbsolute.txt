@@ -1,0 +1,8 @@
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\bin\Debug\TcpChat_Server.exe.config
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\bin\Debug\TcpChat_Server.exe
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\bin\Debug\TcpChat_Server.pdb
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.csproj.AssemblyReference.cache
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.csproj.CoreCompileInputs.cache
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.exe
+C:\Users\Danila\source\repos\TcpChat\TcpChat_Server\obj\Debug\TcpChat_Server.pdb
